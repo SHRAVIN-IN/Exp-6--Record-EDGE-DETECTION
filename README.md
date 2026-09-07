@@ -53,7 +53,7 @@ Display all edge-detected images for comparison.
 - **Register No:** 212224243003 
 
 ---
-##program
+## program
 
 ```
 import cv2
@@ -132,7 +132,7 @@ plt.title('Canny Edge Detection')
 plt.axis('off')
 plt.show()
 ```
-
+---
 ## Output
 
 ###  Sobel Edge Detector
