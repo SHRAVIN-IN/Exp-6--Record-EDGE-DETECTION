@@ -53,7 +53,8 @@ Display all edge-detected images for comparison.
 - **Register No:** 212224243003 
 
 ---
-#program
+##program
+
 ```
 import cv2
 import numpy as np
