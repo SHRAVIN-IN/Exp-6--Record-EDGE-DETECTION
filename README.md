@@ -186,7 +186,6 @@ plt.axis('off')
 - Produces clean and thin edges  
 
 <img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/c2eb226c-c664-4983-ae36-7285cb143170" />
-<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/eb973bb9-fefe-45ea-80bd-12d801b4f3d6" />
 
 
 
