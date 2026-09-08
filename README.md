@@ -149,9 +149,7 @@ plt.axis('off')
 ```
 
 ## Output
-
-<img width="302" height="511" alt="Screenshot 2026-08-22 132131" src="https://github.com/user-attachments/assets/2a1d03bb-6191-4fc3-b222-9480d0da9250" />
- 
+<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/c6212992-8e59-4651-afd0-6413254dea50" />
 
 
 ###  Sobel Edge Detector
@@ -159,7 +157,9 @@ plt.axis('off')
 - Produces gradient-based edge map  
 
 
-<img width="296" height="520" alt="Screenshot 2026-08-22 132141" src="https://github.com/user-attachments/assets/2b887665-c5d8-452d-a8cc-0d1520d5da33" />
+<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/32a1db78-dfe3-4a99-a76b-3ad1073b1bd4" />
+
+
 
 
 
@@ -167,14 +167,16 @@ plt.axis('off')
 - Similar to Sobel but simpler kernel  
 - Detects directional edges  
 
-<img width="294" height="493" alt="Screenshot 2026-08-22 132148" src="https://github.com/user-attachments/assets/79665f26-8b05-4e45-b97a-86838a5275a9" />
+<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/9c2832ea-2213-4229-92e4-db2c61d1b243" />
+
 
 
 
 ###  Roberts Edge Detector
 - Detects edges using diagonal gradients  
 - Sensitive to noise  
-<img width="330" height="519" alt="Screenshot 2026-08-22 132156" src="https://github.com/user-attachments/assets/14947066-4721-4b26-a96b-f47e387b4858" />
+<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/9f28dc97-8c2c-42ea-9a89-5063378511f9" />
+
 
 
 
@@ -183,7 +185,8 @@ plt.axis('off')
 - Multi-stage edge detection  
 - Produces clean and thin edges  
 
-<img width="327" height="512" alt="Screenshot 2026-08-22 132212" src="https://github.com/user-attachments/assets/97968f20-d7e6-4202-b5af-e35c79c55e71" />
+<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/c2eb226c-c664-4983-ae36-7285cb143170" />
+<img width="389" height="410" alt="download" src="https://github.com/user-attachments/assets/eb973bb9-fefe-45ea-80bd-12d801b4f3d6" />
 
 
 
